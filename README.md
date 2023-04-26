@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://linkedin.com/in/fernando-mejorado-tinoco-09a583232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-mejorado-tinoco-09a583232" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ferm-boop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ferm-boop" height="30" width="40" /></a>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Purity#9176" height="30" width="40" /> => <nobr>Purity#9176</nobr>
 </p>
