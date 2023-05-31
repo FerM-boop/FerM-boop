@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native, DiscordJS, MERN**
 
-- 💬 Ask me about **React, JS APIs**
+- 💬 Ask me about **React, Node.js, JS APIs**
 
 - 📫 How to reach me **fermejorado1@gmail.com**
 
