@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferm-boop&label=Profile%20views&color=0e75b6&style=flat" alt="ferm-boop" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferm-boop&theme=discord&title=Repositories,Commit,Issues,PullRequest&no-frame=true&margin-w=30" alt="ferm-boop" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferm-boop&theme=discord&title=Repositories,Commit&no-frame=true&margin-w=30" alt="ferm-boop" /></a> </p>
 
 - 🔭 I’m currently working on Engrane - political campaing app in a private repo, [Discord Bot](https://github.com/FerM-boop/discord-bot) and [Social Skating](https://github.com/FerM-boop/socialSkating)
 
