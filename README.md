@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferm-boop&theme=discord&title=Repositories,Commit,Issues,PullRequest&no-frame=true&margin-w=30" alt="ferm-boop" /></a> </p>
 
-- 🔭 I’m currently working on [Discord Bot](https://github.com/FerM-boop/discord-bot) and [Social Skating](https://github.com/FerM-boop/socialSkating)
+- 🔭 I’m currently working on Engrane - political campaing app in a private repo, [Discord Bot](https://github.com/FerM-boop/discord-bot) and [Social Skating](https://github.com/FerM-boop/socialSkating)
 
-- 🌱 I’m currently learning **React Native, DiscordJS, MERN**
+- 🌱 I’m currently learning **Swift, Typescript, AWS**
 
-- 💬 Ask me about **React, Node.js, JS APIs**
+- 💬 Ask me about **React, Firebase, Node.js**
 
 - 📫 How to reach me **fermejorado1@gmail.com**
 
